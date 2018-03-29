@@ -1,0 +1,51 @@
+body
+{
+    margin: 0;
+}
+
+header
+{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+}
+footer
+{
+    background-color: black;
+    height: 150px;
+    width: 100%;
+}
+
+.contenu_haut
+{
+    margin: auto;
+    width: 80%;
+    display: flex;
+}
+
+.contenu_haut h1
+{
+    color:#f16e00;
+}
+#image_orange
+{
+    width: 10%;
+}
+#titre_site
+{
+    width: 80%;
+    text-align: center;
+}
+#logo
+{
+    margin: auto;
+    width:50px;
+    margin-top:20px;
+}
+
+#contenu
+{
+    margin: auto;
+    width: 80%;
+    min-height:700px;
+}
